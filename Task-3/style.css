@@ -54,13 +54,15 @@
         float: none;
     }
 }
-h1{
+
+h1 {
     text-align: center;
     font-size: 3.2rem
 }
+
 body {
     width: 100%;
-    height: 100vh;
+    height: 3vh;
     overflow: hidden;
     background: linear-gradient(135deg, #4890c6, #000000);
 }
@@ -74,7 +76,7 @@ body {
     max-width: 405px;
     padding: 28px 0 30px;
     margin: 137px auto;
-    background: #fff;
+    background: linear-gradient(135deg, #2c6ea3, #0e558b);
     border-radius: 7px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
